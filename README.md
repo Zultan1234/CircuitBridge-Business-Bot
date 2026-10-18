@@ -10,6 +10,10 @@ pinned: false
 
 # CircuitBridge Electronics — NOVA Agent
 
+## Demonstration Video
+
+[Watch NOVA Chatbot Demonstration](https://youtu.be/kOK09VoFhIk)
+
 **EECE 503P/798S — Introduction to Agents.** Complete fictional online-electronics-store chatbot project.
 
 > **Everything in this shop is fictional**. Demo product listings, pricing, team members and quotations are coursework-only. No orders, emails, or real fulfillment occur.
